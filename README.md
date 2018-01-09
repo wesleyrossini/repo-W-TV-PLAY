@@ -1,2 +1,1 @@
-# repo-W-TV-PLAY
-REPOSITÓRIO W-TV
+# repository.MegaBoxTV
